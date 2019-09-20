@@ -1,0 +1,21 @@
+	https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Terminal
+
+	DIRECTORIOS
+		indica en qué directorio te encuentras           pwd      (print working directory)    
+		se utiliza para cambiar de directorio            cd       (change directory)           
+
+
+	COMANDOS DE CONFIGURACION
+
+ 		comprobar tu configuración------>      git config --list 
+ 		cambiar nombre usuario---------->      git config --global user.name "John Doe"
+ 		cambiar email------------------->      git config --global user.email johndoe@example.com
+
+	PEDIR AYUDA A GIT
+
+		git help <comando>
+		git <comando> --help
+		man git-<comando>
+
+	
+
