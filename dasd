@@ -1,0 +1,30 @@
+[33mcommit 7f44f2b324453e36e3123aa090bcf4528b2d45e1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Francisco Murillo <franmurillo1994@gmail.com>
+Date:   Fri Sep 20 15:46:33 2019 -0300
+
+    cambie readme
+
+[33mcommit 2ae8c7e328ba901a150366a603b0aecba568a1bf[m
+Merge: 240548c de4d98a
+Author: Francisco Murillo <franmurillo1994@gmail.com>
+Date:   Fri Sep 20 15:40:52 2019 -0300
+
+    Merge branch 'master' of https://github.com/franmurillo94/TIO
+
+[33mcommit 240548cade5a3efbba23a13efb83d19ba8220f84[m
+Author: Francisco Murillo <franmurillo1994@gmail.com>
+Date:   Fri Sep 20 15:39:34 2019 -0300
+
+    hola, casi rompo git
+
+[33mcommit de4d98acc8910ad6626e9cae3358018b41ca4aed[m
+Author: Santiago <santiagolopezdearmentia2@gmail.com>
+Date:   Fri Sep 20 15:21:42 2019 -0300
+
+    modificando el readme
+
+[33mcommit 322ccde790478acdaedd5ebcd2cd68bcbeeb8f3c[m
+Author: franmurillo94 <49241103+franmurillo94@users.noreply.github.com>
+Date:   Fri Sep 20 15:11:58 2019 -0300
+
+    Initial commit
