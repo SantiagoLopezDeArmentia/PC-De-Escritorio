@@ -1,3 +1,3 @@
 # TIO
 
-hola pancho, todo bien?
+la ocncha tuya
